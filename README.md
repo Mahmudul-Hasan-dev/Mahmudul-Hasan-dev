@@ -1,7 +1,7 @@
 
-### Hi there 👋 I'm Mahmudul Hasan
+<!-- ### Hi there 👋 I'm Mahmudul Hasan
 
-<--**Mahmudul-Hasan-dev/Mahmudul-Hasan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mahmudul-Hasan-dev/Mahmudul-Hasan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can mail me mahmudulhasanofficialplus@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
+ -->
+<!-- <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul-hasan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul-hasan-dev" /> </p>
@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-hasan-dev&" alt="mahmudul-hasan-dev" /></p>
 
+ -->

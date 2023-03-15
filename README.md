@@ -153,7 +153,7 @@ Here are some ideas to get you started:
         src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center"
+<p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul-hasan-dev&show_icons=true&locale=en&layout=compact"
         alt="mahmudul-hasan-dev" /></p>
 
